@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+
+# Secrets and local data
+.env
+expenses.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Old local-only version of the course, not published
+_v1-local/
