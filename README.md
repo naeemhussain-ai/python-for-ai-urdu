@@ -10,10 +10,10 @@ Module 1–4 browser mein chalte hain (Google Colab, kuch install nahi). Module 
 
 | # | Module | Kahan | Code |
 |---|---|---|---|
-| 1 | Google Colab mein pehla program | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/python-for-ai-urdu/blob/main/m01/m01-pehla-program.ipynb) |
-| 2 | Strings + f-strings | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/python-for-ai-urdu/blob/main/m02/m02-strings.ipynb) |
-| 3 | Lists, dicts, loops | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/python-for-ai-urdu/blob/main/m03/m03-lists-dicts.ipynb) |
-| 4 | Functions + type hints | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/python-for-ai-urdu/blob/main/m04/m04-functions.ipynb) |
+| 1 | Google Colab mein pehla program | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naeemhussain-ai/python-for-ai-urdu/blob/main/m01/m01-pehla-program.ipynb) |
+| 2 | Strings + f-strings | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naeemhussain-ai/python-for-ai-urdu/blob/main/m02/m02-strings.ipynb) |
+| 3 | Lists, dicts, loops | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naeemhussain-ai/python-for-ai-urdu/blob/main/m03/m03-lists-dicts.ipynb) |
+| 4 | Functions + type hints | Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naeemhussain-ai/python-for-ai-urdu/blob/main/m04/m04-functions.ipynb) |
 | 5 | Notebook se asli project | Local | [m05](m05) |
 | 6 | Files, JSON, `.env` | Local | [m06](m06) |
 | 7 | Errors + zaroori OOP | Local | [m07](m07) |
